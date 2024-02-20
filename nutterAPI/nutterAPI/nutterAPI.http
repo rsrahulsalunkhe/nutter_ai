@@ -1,0 +1,6 @@
+@nutterAPI_HostAddress = http://localhost:5293
+
+GET {{nutterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
